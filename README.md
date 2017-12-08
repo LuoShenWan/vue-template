@@ -1,7 +1,10 @@
-# hq
+# vue-template
 
 > A Vue.js project
 
+```
+vue vue-router vuex axios
+```
 ## Build Setup
 
 ``` bash
